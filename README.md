@@ -1,7 +1,8 @@
 # Movies app 
-## where you can search your favorite movies and save them for later
+## This is a movie browsing app that allows users to search for movies and mark their favorites.
 
 
+### Installation
 ```
 cd ./frontend
 npm install
